@@ -22,9 +22,18 @@ for line in fhand:
         print(line)
 
 #need to open file each time        
-fhand = open('210.py')
+#fhand = open('210.py')
+
+# [Harrison] You can use the seek function on a file to 'seek' the beginning of the file.
+# [Harrison] 0 represents the start of the file.
+fhand.seek(0)
 for line in fhand:
     line = line.rstrip()
     if not line.startswith('U'):                              #skips a line (unsure)        
         continue
     print(line)
+
+# [Harrison] Python will do this for you after the program runs,
+# [Harrison] but it's good practice to close the file.
+fhand.close()
+
