@@ -1,0 +1,10 @@
+g = hello
+print(g)
+def letsgetit(x,y):
+    return(x ** y)
+x = 6
+y = 2
+
+print(letsgetit(x,y))
+
+print('Test')
