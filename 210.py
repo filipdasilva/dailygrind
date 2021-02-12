@@ -1,5 +1,5 @@
 J
-U
+Uganda
 S
 T
 
