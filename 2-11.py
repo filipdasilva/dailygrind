@@ -1,3 +1,6 @@
+from my_list import *
+from oldlist import oldlist
+
 fhand = open('210.py')
 for line in fhand:
     line = line.rstrip()
@@ -66,10 +69,14 @@ print('64')
 
 g = 'Not'
 #QQ how can i import these lists?
-list = ['ALL','ASINS','FROM','2021']
-oldlist = ['FROM','2020']
+### [Harrison] Create another python file and import objects from it.
+### [Harrison] This is also how you do it w/ functions/classes
+### [Harrison] This is exactly how other python modules work.
 
-for x in list:
+### [Harrison] list = ['ALL','ASINS','FROM','2021']
+### [Harrison] oldlist = ['FROM','2020']
+
+for x in my_list:
     if x in oldlist:
         print(x)
     else:
