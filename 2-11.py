@@ -61,11 +61,11 @@ print(c[:6])
 x = 9 in a
 print(x)
 
-
+print('64')
 #had a problem at work today, wanted to check what the OPS of certain ASINs was in 2021 that were not in 2020
 
 g = 'Not'
-
+#QQ how can i import these lists?
 list = ['ALL','ASINS','FROM','2021']
 oldlist = ['FROM','2020']
 
