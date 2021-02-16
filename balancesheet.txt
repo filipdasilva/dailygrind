@@ -1,0 +1,56 @@
+This formula is intuitive: a company has to pay for all the things it owns (assets) by either borrowing money (taking on liabilities) or taking it from investors (issuing shareholders' equity).
+
+For example, if a company takes out a five-year, $4,000 loan from a bank, its assets (specifically, the cash account) will increase by $4,000. Its liabilities (specifically, the long-term debt account) will also increase by $4,000, balancing the two sides of the equation. If the company takes $8,000 from investors, its assets will increase by that amount, as will its shareholders' equity. All revenues the company generates in excess of its expenses will go into the shareholders' equity account. These revenues will be balanced on the assets side, appearing as cash, investments, inventory, or some other asset.
+
+Assets, liabilities and shareholders' equity each consist of several smaller accounts that break down the specifics of a company's finances. These accounts vary widely by industry, and the same terms can have different implications depending on the nature of the business. Broadly, however, there are a few common components investors are likely to come across.
+
+
+CORPORATE FINANCE & ACCOUNTING  FINANCIAL STATEMENTS
+Balance Sheet
+By JASON FERNANDO
+ Reviewed By MARGARET JAMES 
+ Updated Feb 4, 2021
+TABLE OF CONTENTS
+EXPAND
+What Is a Balance Sheet?
+Formula Used for a Balance Sheet
+What's On the Balance Sheet?
+Assets
+Liabilities
+Shareholders' Equity
+Example
+Limitations
+Learn More About Balance Sheets
+Frequently Asked Questions
+What Is a Balance Sheet?
+A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity at a specific point in time, and provides a basis for computing rates of return and evaluating its capital structure. It is a financial statement that provides a snapshot of what a company owns and owes, as well as the amount invested by shareholders.
+
+
+The balance sheet is used alongside other important financial statements such as the income statement and statement of cash flows in conducting fundamental analysis or calculating financial ratios.
+
+
+KEY TAKEAWAYS
+A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.
+The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.
+The balance sheet is a snapshot, representing the state of a company's finances (what it owns and owes) as of the date of publication.
+Fundamental analysts use balance sheets, in conjunction with other financial statements, to calculate financial ratios.
+1:10
+An Introduction To The Balance Sheet
+
+Formula Used for a Balance Sheet
+The balance sheet adheres to the following accounting equation, where assets on one side, and liabilities plus shareholders' equity on the other, balance out:
+
+\text{Assets} = \text{Liabilities} + \text{Shareholders' Equity}Assets=Liabilities+Shareholders’ Equity
+﻿
+
+
+This formula is intuitive: a company has to pay for all the things it owns (assets) by either borrowing money (taking on liabilities) or taking it from investors (issuing shareholders' equity).
+
+
+For example, if a company takes out a five-year, $4,000 loan from a bank, its assets (specifically, the cash account) will increase by $4,000. Its liabilities (specifically, the long-term debt account) will also increase by $4,000, balancing the two sides of the equation. If the company takes $8,000 from investors, its assets will increase by that amount, as will its shareholders' equity. All revenues the company generates in excess of its expenses will go into the shareholders' equity account. These revenues will be balanced on the assets side, appearing as cash, investments, inventory, or some other asset.
+
+Assets, liabilities and shareholders' equity each consist of several smaller accounts that break down the specifics of a company's finances. These accounts vary widely by industry, and the same terms can have different implications depending on the nature of the business. Broadly, however, there are a few common components investors are likely to come across.
+
+What's On the Balance Sheet?
+What Does a Company Balance Sheet Tell You?
+ Theresa Chiechi {Copyright} Investopedia, 2019.
