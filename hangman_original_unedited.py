@@ -47,7 +47,7 @@ def gamePlay(secretWord):
 def printWord(displayWord):
 	word = ""
 	for i in range(len(displayWord)):
-		word = word + displayWord[i]
+		word += displayWord[i]
 	print()
 	print("Current Progress: ", word)
 
