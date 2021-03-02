@@ -45,11 +45,13 @@ def GamePlay(secretWord):
             if '_' not in displayWord:
                 print('Good Game')
                 GameOver = True
+                InvalidInput = False
+                break
                 #Player == 3
-                #main()
+                main()
            # printWord(displayWord)
 
-        elif guess not in secretWord:
+        else:
             print('Wrong')
             count = count + 1
             if count == 1:
@@ -68,14 +70,18 @@ def GamePlay(secretWord):
             elif count == 5:
                 print('X_X')
                 print('Tries Remaining:', 6-count)
-            elif count ==6:
+            elif count == 6:
                 print('Game Over')
+                gameOver = True
+                
+                main()
+              
             printWord(displayWord)
 def printWord(displayWord):
     word = ""
     for i in range(len(displayWord)):
-        word = word + displayWord[i]   
-        print()
+        word += displayWord[i]   
+        #print()
         print('OK', word)
         
 def getdisplayWord(secretWord):
@@ -99,17 +105,17 @@ def main():
         if Player == 1:
             secretWord =input('Player One hey bud whats the word: ').upper()
 
-            Player = 2
+            
             for i in range(40):
                 print()
-
+            Player = 2
             GamePlay(secretWord)
         elif Player == 2:
             secretWord =input('Player Two hey bud whats the word: ').upper()
-            Player = 1
+            
             for i in range(40):
                 print()
-
+            Player = 1
 
             GamePlay(secretWord)
         #elif Player == 3:
@@ -120,9 +126,11 @@ def main():
 
 main()
 
+
+#Help Needed
 #Remaining Errors:
-#1. The displayWord is displayed multiple times every guess
-#2. Game keeps going when hangman is there
+#1. The displayWord is displayed multiple times every guess, the amount of times = number of characters in word
+#2. Game keeps going when hangman is there - changed it so it ends but goes to next player wont go to quit
 
 
 #else:

@@ -1,0 +1,59 @@
+#XML - does this get saved as XML file, how does the XML look when I open in Python?
+
+
+
+
+#socket is application process sends to another application process
+
+#agreeing on a "wire" format
+
+#python serialize then de-serialize to JSON
+
+#JSON and XML two most common ways to send data over internet
+
+#XML uses tags - basic
+
+<person>
+    <name>Filip</name>
+    <phone type="intl">
+        678 999 8212
+    </phone>
+    <email hide="yes"/>
+</person>
+
+#tags named anything we want
+
+#self closing tag, attribute
+
+#XML is tree with parent-child relationships
+
+#XML Schema - description of legal format of XML document - which side's fault is something goes wrong
+
+<complextag>
+<sequence>
+<element/>
+</sequence>
+</complextag>
+
+#Schema is what verifies that XML is correct
+
+#XSD constraints
+
+#tag attributes give the data type, ex: string, date, dateTime, decimal, integer
+
+XML = 'UTF-8'
+
+import xml doc as XD
+tree = XD.fromstring(data)
+
+#find the name of name tag in XML
+print('Name: ', tree.find('name').text)
+#hide is the attribute for email
+print('Attr: ', tree.find('email').get'hide'))
+
+
+
+#find list of user tags example, can iterate through the list
+
+for item in list:
+    print('Attribute', item.get("x:"))

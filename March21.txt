@@ -1,0 +1,66 @@
+In March I want to 
+    1) Create a working version of Hangman
+    2) Be able to decode some of my own bugs
+    3) Create simple working programs
+    4) Intro to Jupyter Labs - start using at work
+    
+    
+Projects
+    1) Hangman
+    2) Walmart to Facebook Dropship
+    3) Supreme checkout bot
+    4) Sneaker checkout bot (Footlocker, Champs etc)
+    5) Crypto automatic trading
+    
+    
+Notes
+    1) Things are going to go wrong and not work, prioritize what is worth fixing and what is not
+    2) Mistakes mean I am learning
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+Current Bugs
+    1) Scraping Walmart's website
+   
+    2) Hangman
+        a) Game not over when the hangman is there, doesnt go to quit
+        b) printWord(displayWord) appears multiple times every guess
+        
+    3) Count the number of words in a file from urllib
