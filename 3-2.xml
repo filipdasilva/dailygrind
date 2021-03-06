@@ -57,3 +57,8 @@ print('Attr: ', tree.find('email').get'hide'))
 
 for item in list:
     print('Attribute', item.get("x:"))
+
+
+``` ``` for xml
+
+item.find and item.get
